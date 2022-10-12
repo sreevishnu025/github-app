@@ -1,1 +1,1 @@
-# temp-repo
+# Github template for CI/CD pipeline. 
